@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Mconf Chat
 Comment=Chat client that connect to the Mconf.org network
-Type=Application
+Type=comm
 Version=1.0
 Icon=mconf
 Exec=mconf-chat
