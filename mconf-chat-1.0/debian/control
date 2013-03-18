@@ -1,0 +1,16 @@
+Source: mconf-chat
+Section: comm
+Priority: extra
+Maintainer: mauricio <mauricio@mconf.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://mconf.org/
+#Vcs-Git: git://git.debian.org/collab-maint/mconf-chat.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/mconf-chat.git;a=summary
+
+Package: mconf-chat
+Architecture: i386
+Depends: ${shlibs:Depends}, ${misc:Depends}, libxss1, libqca2
+Description: Chat client that connects to the Mconf network.
+ Chat client that connects to the Mconf network, a multiconference
+ solution.

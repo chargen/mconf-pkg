@@ -1,0 +1,3 @@
+mconf-chat/* bin/mconf-chat
+mconf-chat.desktop usr/share/applications
+mconf.png usr/share/icons/mconf.png

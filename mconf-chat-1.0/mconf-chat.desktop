@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=comm
+Version=1.0
+Name=Mconf Chat
+Comment=Chat client that connect to the Mconf.org network
+Icon=logo.png Exec=/bin/mconf-chat
+Path=/opt/mconf-chat
+Categories=Applications;
