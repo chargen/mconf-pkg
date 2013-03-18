@@ -1,9 +1,12 @@
 [Desktop Entry]
 Name=Mconf Chat
+GenericName=Chat Client
 Comment=Chat client that connect to the Mconf.org network
-Type=comm
+Type=Application
 Version=1.0
 Icon=mconf
 Exec=mconf-chat
 Categories=Applications;
 Terminal=false
+StartupNotify=false
+Categories=Network;Chat;Qt;
